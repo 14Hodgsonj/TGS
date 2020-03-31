@@ -1,0 +1,71 @@
+body{
+	font-family: 'Mountains of Christmas', cursive;
+}
+p{
+	font-family: 'Calistoga', cursive;
+}
+.para, .para1, .para2{
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.para{
+	background-image: url("https://libreshot.com/wp-content/uploads/2015/01/christmas-baubles.jpg");
+	height: 100%;
+}
+.para1{
+	background-image: url("https://www.farmersalmanac.com/wp-content/uploads/2017/01/Pleiades-Constellation-Astronomy-i505917762.jpeg");	
+	height: 100%;
+}
+.para2{
+	background-image: url("https://tse1.mm.bing.net/th?id=OIP.C_odlc6B34N48oZHriTw8wHaEK&pid=Api");
+	height: 100%;
+}
+.group_2{
+	background-image: url("https://travelhotelguides.com/wp-content/uploads/2018/12/Roseville-Oval-ice-skating-and-hockey-rink-Christmas.jpg");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
+.group_3{
+	background-image: url("https://cdn.images.express.co.uk/img/dynamic/128/590x/secondary/reindeer-group-753457.jpg");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
+.group_4{
+	background-image: url("http://2.bp.blogspot.com/-9ifoHfcgrM4/TvcrnAmWiBI/AAAAAAAAAVE/9qsexjarFNM/s1600/Santa_Claus_Sleigh_Reindeer_Flying2.jpg");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
+.group_5{
+	background-image: url("https://cdn.images.express.co.uk/img/dynamic/151/590x/Full-Moon-626400.jpg");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
+.group_6{
+	background-image: url("http://wallpapercave.com/wp/wp1810687.jpg");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
+.group_7{
+	background-image: url("http://www.newyorkguest.com/data/Image/Content/Happy+Holidays+from+New+York+City.jpg?rev=3657");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
+.group_8{
+	background-image: url("http://4.bp.blogspot.com/-_ij1VUz0yno/UI_SvoYuDGI/AAAAAAAAMpY/4SEeWkcOxTc/s1600/Snowman+Backgrounds+7.jpg");
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+}
+#navbar ul {list-style-type:none; margin:0; padding:0; overflow:hidden; background-color:white; border:5px solid green}
+#navbar li {float:left}
+#navbar li a {display:block; color:green; text-align:center; padding:15px 20px; text-decoration:none;}
+#navbar li a:hover {background-color:green; color:white}
+
